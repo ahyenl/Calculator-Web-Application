@@ -52,3 +52,21 @@ o	Close and Open Buttons: To close and re open the calculator app.
 
     •Press the "AC" button to clear the input field and start a new calculation.
 
+
+# Additional Features
+
+
+1.Close and Open Buttons:
+
+
+•	Use the "Close" button to hide the calculator interface.
+
+
+•	Use the "Open" button to reveal the calculator interface again.
+
+
+## Conclusion
+
+
+
+You're now equipped with the knowledge to use the Basic Arithmetic Calculator Web App effectively. Enjoy calculating with ease and don't hesitate to reach out if you have any questions or feedback!
