@@ -34,12 +34,12 @@ o	Result display: Shows the result of the calculation.
 o	Close and Open Buttons: To close and re open the calculator app. 
 
 # Basic Usage
-1. Entering Numbers and Operators:
+1.Entering Numbers and Operators:
 
    
-   •Use the buttons to enter numbers (0-9) and basic arithmetic operators (+, -, *, /, %).
+    •Use the buttons to enter numbers (0-9) and basic arithmetic operators (+, -, *, /, %).
 
-2.  Performing Calculations:
+2.Performing Calculations:
 
 
     •After entering the expression, press the "=" button or hit the Enter key to perform the calculation.
