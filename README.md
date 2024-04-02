@@ -3,14 +3,14 @@
 
  Welcome to the Basic Arithmetic Calculator Web App! This documentation will guide you through the features and functionalities of our calculator.
 
-Getting Started
-1.Accessing the Web App:
-•	Visit the GitHub repository for the Basic Arithmetic Calculator Web App by clicking on the following link: https://github.com/ahyenl/Calculator-Web-Application.git
-•	Download the repository to your local machine.
-•	Navigate to the downloaded project folder using your computer's file explorer.
-•	Open the home.html file in your web browser. You can either drag the file into your browser window or use a local web server like Live Server to launch it automatically.
+# Getting Started
+  1.Accessing the Web App:
+			•	Visit the GitHub repository for the Basic Arithmetic Calculator Web App by clicking on the following link: https://github.com/ahyenl/Calculator-Web-Application.git
+			•	Download the repository to your local machine.
+			•	Navigate to the downloaded project folder using your computer's file explorer.
+		•	Open the home.html file in your web browser. You can either drag the file into your browser window or use a local web server like Live Server to launch it automatically.
 
-2.Interface Overview:
+# 2.Interface Overview:
 •	Upon opening the web app, you'll see a simple interface consisting of:
 o	Input field: Where you can enter arithmetic expressions.
 o	Buttons: For entering numbers, operators, and performing calculations.
